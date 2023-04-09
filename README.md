@@ -1,3 +1,6 @@
+本人为清华大学本科生一枚，这个暑假在学PHOSA，代码有很多模型和库需要下载，我已经整合在云盘https://cloud.tsinghua.edu.cn/d/a3345906f413473d8350/
+
+
 # Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild (PHOSA)
 
 Jason Y. Zhang*, Sam Pepose*, Hanbyul Joo, Deva Ramanan, Jitendra Malik, and Angjoo
